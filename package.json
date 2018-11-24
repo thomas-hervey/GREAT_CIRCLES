@@ -1,0 +1,12 @@
+{
+  "name": "great_circles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thomas-hervey/great_circles.git",
+  "author": "Thomas Hervey <thomasahervey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0"
+  }
+}
